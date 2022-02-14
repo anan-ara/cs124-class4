@@ -1,0 +1,13 @@
+.name {
+  font-weight: Bold
+}
+
+.email {
+  font-family: Courier
+}
+
+div .data {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+}
